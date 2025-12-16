@@ -1,0 +1,3 @@
+For each new feature I created a new branch. Each new branch being identical to the original main branch, I then added only the new feature and nothing more.After the new feature was fully added, committed and push to GitHub I moved on to creating a new branch for the next feature, repeating the process. When all features were completed I then merged each branch individually with main. Most of the merges were done in VsCode where I could press the accept changes button. Some were done with the cli and, quite honestly seemed a bit like magic to me and seemed to resolve themselves.
+
+Pull requests allowed me to thoroughly review the diffs between the incoming code and the original, ensuring I really did want was going to be merged.
